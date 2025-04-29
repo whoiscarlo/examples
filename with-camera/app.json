@@ -36,8 +36,8 @@
       [
         "expo-camera",
         {
-          "cameraPermission": "Allow TestApp to access your camera",
-          "microphonePermission": "Allow TestApp to access your microphone",
+          "cameraPermission": "Allow With Camera to access your camera",
+          "microphonePermission": "Allow With Camera to access your microphone",
           "recordAudioAndroid": true
         }
       ]
